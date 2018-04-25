@@ -32,7 +32,7 @@
     },
     ui: {
         ssl: true,
-        host: 'gekko.example.com',
+      host: 'https://gekkotest1.herokuapp.com/',
         port: 443,
         path: '/' // change this if you are serving from something like `example.com/gekko`
     },
